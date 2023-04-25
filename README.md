@@ -1,4 +1,4 @@
-# Learning-C-
+# Learning-C#
 25/4
 https://learn.microsoft.com/en-gb/training/paths/get-started-c-sharp-part-3/
 
