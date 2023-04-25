@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "roC/djMZxOH0NZ0+ljhnJ1z2iW2NjjBXkQMFJrkPGR6oSDsjC1iwJZ0VFcL1EfRl0nLUT63l98GzYS5jqG2+Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\.net stuff\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sitefinity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
