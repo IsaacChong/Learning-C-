@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "roC/djMZxOH0NZ0+ljhnJ1z2iW2NjjBXkQMFJrkPGR6oSDsjC1iwJZ0VFcL1EfRl0nLUT63l98GzYS5jqG2+Pw==",
+  "dgSpecHash": "Eds7LMYSvxR5ZHzcOkuw7zxM2JqDMHDV0ZY+5ij1wtXnEaF87hm//GD8o1KMzmeaMsP+IPrcEwXqQYwCZ7gmzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\.net stuff\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\dotnet-stuff\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\.net stuff\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\dotnet-stuff\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\.net stuff\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\dotnet-stuff\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\isaac.chong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\.net stuff\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\isaac.chong\\Desktop\\projects\\personal\\dotnet-stuff\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaac.chong\\AppData\\Roaming\\NuGet\\NuGet.Config",
